@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container1{
+    width: 1282px;
+    background-color: black;
+    color: white;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    
+}
+.items1{
+
+    display: flex;
+    width: 1282px;
+    padding: 0px;
+    justify-content: space-between;
+    
+    
+}
+.links{
+
+    display: flex;
+    height: 60px;
+    align-items: center;
+    width: 400px;
+    justify-content: space-around;
+    font-weight: bolder;
+}
+.dodge-garage-logo{
+    width: 250px;
+    height: 60px;
+}
+.container2{
+    background-color: rgb(43, 42, 42);
+    color: white;
+    display: flex;
+    width: 1282px;
+    justify-content: center;
+}
+.items2{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    
+}
+A:visited{
+    color: red;
+}
+.muscle{
+    font-weight: bolder;
+}
+.container3{
+    position: relative;
+}
+video{
+    width: 1282px;
+}
+.C{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+}
+.container4{
+    background-color: black;
+    color: white;
+    width: 1282px;
+}
+.sub{
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    padding: 20px;
+    
+}
+.red{
+    color: red;
+}
+.hp, .bs{
+    padding: 40px;
+}
+.container5{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 50px;
+    width: 1282px;
+
+    
+}
+.items5{
+    background-color: red;
+    padding: 40px;
+    
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.content{
+    display: flex;
+    
+    padding: 20px;
+
+
+}
+
+
